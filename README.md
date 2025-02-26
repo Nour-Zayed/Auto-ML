@@ -8,6 +8,15 @@ This repository demonstrates the power of Automated Machine Learning (AutoML) by
 **H2O AutoML, TPOT, and PyCaret.**
 These tools automate model selection, hyperparameter tuning, and pipeline optimization, making machine learning more efficient and accessible.
 
+**📌 Why AutoML?**
+
+✅ Saves time: Eliminates the need for manual model selection.
+
+✅ Enhances performance: Finds the best model and fine-tunes it automatically.
+
+✅ Accessible to all: Ideal for both beginners and experienced data scientists.
+
+
 🔧 **Tools & Technologies**
 
 **H2O AutoML:** Efficient and scalable AutoML framework for large datasets.
@@ -118,14 +127,4 @@ Compares multiple models and selects the best one.
 Fine-tunes the best model for higher accuracy.
 
 Evaluates model performance and makes predictions.
-
-
-**📌 Why AutoML?**
-
-✅ Saves time: Eliminates the need for manual model selection.
-
-✅ Enhances performance: Finds the best model and fine-tunes it automatically.
-
-✅ Accessible to all: Ideal for both beginners and experienced data scientists.
-
 
